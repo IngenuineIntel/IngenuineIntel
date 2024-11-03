@@ -19,6 +19,9 @@ jobs:
           SHOW_EDITORS: False
           SHOW_TIMEZONE: False
           SHOW_COMMIT: False
-          SHOW_FAYS_OF_WEEK: False
+          SHOW_DAYS_OF_WEEK: False
           SHOW_PROJECTS: False
           IGNORED_REPOS: "IngenuineIntel"
+          SHOW_PROFILE_VIEWS: False
+          SHOW_TOTAL_CODE_TIME: False
+          SHOW_LOC_CHART: False
