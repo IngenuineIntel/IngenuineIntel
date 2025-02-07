@@ -2,13 +2,25 @@
 
 ### Skills
 
-- Linux (Archlinux, Debian, Fedora, etc.)
+##### Systems
+
+- Everything Linux
+- Not (willingly) Windows
+
+##### Languages
+
 - C
 - NASM
 - Python3
-- Bash Scripting
+- Bash
+
+##### Programs
+
 - Radare2
-- A bit of the Kali Linux suite
+- VSCode
+
+##### Other
+
 - [Typing](https://monkeytype.com/profile/IngenuineIntel)
 - Soldering
 - Computer Hardware
