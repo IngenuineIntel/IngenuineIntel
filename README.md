@@ -2,41 +2,34 @@
 
 ### Skills
 
-- Linux
-  - Arch Linux
-  - Ubuntu
-  - Debian
-  - Kali
-  - You get the idea
-  - Not Windows
-- Programming
-  - C (Linux)
-  - C++ (Linux)
-  - Python (Linux)
-  - Assembly (Linux)
-  - Bash (Linux (obviously))
-- IT stuff
-  - Computer refurbishment
-  - Hardware troubleshooting
-  - Computer assembly
-  - You get the idea
-- Soldering
+- Linux (Archlinux, Debian, Fedora, etc.)
+- C
+- NASM
+- Python3
+- Bash Scripting
+- Radare2
+- A bit of the Kali Linux suite
 - [Typing](https://monkeytype.com/profile/IngenuineIntel)
-- Piano
+- Soldering
+- Computer Hardware
+- Computer Troubleshooting
 
 ### Learning
-- More soldering
-- More piano
+
+- Rust
+- Malware Technique
 - Software RE
-- Radare2
 
-### Other interests
-- Malware technique
-- Hardware RE
-- Figuring out the answer to "why do people like RGB?"
+### Tech Suite
 
-Most of my repositories are private at the current moment. Some of them will
-be made public upon completion. Sorry!
+- Archlinux/Archlinux SSHed into a VM or home server
+- Hyprland or TTY with Zellij (f**k the rodent)
+- Bash
+- Vim
+- C
+
+Many of my projects don't see the light of day. The ones that do, though, you
+can find here. Feel free to email/stalk me.
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
