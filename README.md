@@ -48,18 +48,15 @@ can find here. Feel free to email/stalk me.
 
 ```text
 💬 Programming Languages: 
-Rust                     3 hrs 19 mins       ████████████████████████░   94.42 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-gitignore                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      3 hrs 31 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 31 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/02/2025 18:46:10 UTC
+ Last Updated on 26/02/2025 18:46:04 UTC
 <!--END_SECTION:waka-->
