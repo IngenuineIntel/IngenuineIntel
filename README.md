@@ -44,6 +44,20 @@ Many of my projects don't see the light of day. The ones that do, though, you
 can find here. Feel free to email/stalk me.
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 03/10/2025 18:47:02 UTC
+```text
+💬 Programming Languages: 
+Markdown                 12 mins             ███████████████░░░░░░░░░░   60.37 % 
+HTML                     8 mins              ██████████░░░░░░░░░░░░░░░   39.63 % 
+
+🔥 Editors: 
+Vim                      20 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    20 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 04/10/2025 18:43:54 UTC
 <!--END_SECTION:waka-->
