@@ -48,16 +48,15 @@ can find here. Feel free to email/stalk me.
 
 ```text
 💬 Programming Languages: 
-Markdown                 12 mins             ███████████████░░░░░░░░░░   60.37 % 
-HTML                     8 mins              ██████████░░░░░░░░░░░░░░░   39.63 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/10/2025 18:44:19 UTC
+ Last Updated on 06/10/2025 18:48:33 UTC
 <!--END_SECTION:waka-->
