@@ -1,62 +1,25 @@
-# Hello!/¡Hola!
+## IngenuineIntel
 
-### Skills
+<div display=flex>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=50 height=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width=50 height=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width=50 height=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg" width=50 height=50/>
+  <img width=30>
+<sup>◄────── I do this stuff</sup>
+</div>
+<div display=flex>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" width=50 height=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" width=50 height=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-plain.svg" width=50 height=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=50 height=50/> 
+  <img width=30>
+ <sup>◄────── Usually like this</sup>
+</div>
 
-##### Systems
-
-- Everything Linux
-- Not (willingly) Windows
-
-##### Languages
-
-- C
-- NASM
-- Python3
-- Bash
-
-##### Programs
-
-- Radare2
-- VSCode
-
-##### Other
-
-- [Typing](https://monkeytype.com/profile/IngenuineIntel)
-- Soldering
-- Computer Hardware
-- Computer Troubleshooting
-
-### Learning
-
-- Rust
-- Malware Technique
-- Software RE
-
-### Tech Suite
-
-- Archlinux/Archlinux SSHed into a VM or home server
-- Hyprland or TTY with Zellij (f**k the rodent)
-- Bash
-- Vim
-- C
-
-Many of my projects don't see the light of day. The ones that do, though, you
-can find here. Feel free to email/stalk me.
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
 ```
-
-
- Last Updated on 25/04/2026 19:27:06 UTC
-<!--END_SECTION:waka-->
+Check out this cool stuff down here ─┐
+                                     │
+                                     │
+                                     ▼
+```
